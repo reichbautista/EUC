@@ -39,7 +39,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_78226_euc_projec_euc_story" name="x_78226_euc_projec_euc_story" sys_domain="global" view="Default view">feda7f06db002300e48071efbf961939</sys_ui_form>
-            <sys_ui_section caption="Related Records" display_value="Related Records" name="x_78226_euc_projec_euc_story" sys_domain="global" view="Default view">14498c1edb002300e48071efbf96197c</sys_ui_section>
+            <sys_ui_section caption="Release and Related Records" display_value="Release and Related Records" name="x_78226_euc_projec_euc_story" sys_domain="global" view="Default view">14498c1edb002300e48071efbf96197c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-08-22 19:02:55</sys_updated_on>
         </sys_ui_form_section>

@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element attributes="live_feed=true" extends="x_78226_euc_projec_euc_projects_table" label="EUC Story" max_length="40" name="x_78226_euc_projec_euc_story" type="collection">
+        <element label="Change Request" max_length="32" name="u_change_request" reference="change_request" type="reference"/>
         <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="EUC Task List" max_length="1024" name="u_euc_task_list" reference="x_78226_euc_projec_euc_task" type="glide_list"/>
+        <element label="Release Date" max_length="40" name="u_release_date" type="glide_date"/>
     </element>
 </database>
