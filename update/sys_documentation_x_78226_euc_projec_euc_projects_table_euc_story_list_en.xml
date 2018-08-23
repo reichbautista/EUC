@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="euc_story_list" label="EUC Story List" language="en" table="x_78226_euc_projec_euc_projects_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>euc_story_list</element>
+            <help/>
+            <hint/>
+            <label>EUC Story List</label>
+            <language>en</language>
+            <name>x_78226_euc_projec_euc_projects_table</name>
+            <plural>EUC Story Lists</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-08-22 19:00:31</sys_created_on>
+            <sys_id>0db8081edb002300e48071efbf96198e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>EUC Story List</sys_name>
+            <sys_package display_value="EUC Projects" source="x_78226_euc_projec">8556bf02db002300e48071efbf9619aa</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="EUC Projects">8556bf02db002300e48071efbf9619aa</sys_scope>
+            <sys_update_name>sys_documentation_x_78226_euc_projec_euc_projects_table_euc_story_list_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-08-22 19:00:31</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

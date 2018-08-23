@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="live_feed=true" audit="true" extends="task" label="EUC Projects Table" max_length="40" name="x_78226_euc_projec_euc_projects_table" type="collection">
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="EUC Story List" max_length="1024" name="euc_story_list" reference="x_78226_euc_projec_euc_story" type="glide_list"/>
+        <element attributes="edge_encryption_enabled=true" label="Project Name" max_length="40" name="u_project_name" type="string"/>
+        <element label="EUC Stories" max_length="32" name="u_reference_2" reference="x_78226_euc_projec_euc_story" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="New String (Full UTF-8)" max_length="255" name="u_string_full_utf8_1" type="string_full_utf8"/>
+    </element>
+</database>

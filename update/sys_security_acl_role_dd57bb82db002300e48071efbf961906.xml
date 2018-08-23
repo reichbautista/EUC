@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-22 17:44:37</sys_created_on>
+        <sys_id>dd57bb82db002300e48071efbf961906</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_78226_euc_projec_euc_task.x_78226_euc_projec.user</sys_name>
+        <sys_package display_value="EUC Projects" source="x_78226_euc_projec">8556bf02db002300e48071efbf9619aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EUC Projects">8556bf02db002300e48071efbf9619aa</sys_scope>
+        <sys_security_acl display_value="x_78226_euc_projec_euc_task">11577b82db002300e48071efbf9619f8</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_dd57bb82db002300e48071efbf961906</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-22 17:44:37</sys_updated_on>
+        <sys_user_role display_value="x_78226_euc_projec.user" name="x_78226_euc_projec.user">9556bb42db002300e48071efbf9619d2</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

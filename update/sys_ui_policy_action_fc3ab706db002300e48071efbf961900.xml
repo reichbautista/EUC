@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <disabled>true</disabled>
+        <field>opened_by</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-22 17:57:18</sys_created_on>
+        <sys_id>fc3ab706db002300e48071efbf961900</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>opened_by</sys_name>
+        <sys_package display_value="EUC Projects" source="x_78226_euc_projec">8556bf02db002300e48071efbf9619aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EUC Projects">8556bf02db002300e48071efbf9619aa</sys_scope>
+        <sys_update_name>sys_ui_policy_action_fc3ab706db002300e48071efbf961900</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-22 17:57:24</sys_updated_on>
+        <table>x_78226_euc_projec_euc_projects_table</table>
+        <ui_policy display_value="Read Only">9bc97306db002300e48071efbf961912</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>

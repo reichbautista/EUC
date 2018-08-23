@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="adac7b46db002300e48071efbf96197a" sys_domain="global" table="x_78226_euc_projec_euc_task" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-08-22 18:07:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a9ac3386db002300e48071efbf961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_78226_euc_projec_euc_task" name="x_78226_euc_projec_euc_task" sys_domain="global" view="Default view">adac7b46db002300e48071efbf96197a</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_78226_euc_projec_euc_task" sys_domain="global" view="Default view">61ac3386db002300e48071efbf961926</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-08-22 18:07:51</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-08-22 18:07:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6dac3386db002300e48071efbf961925</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_78226_euc_projec_euc_task" name="x_78226_euc_projec_euc_task" sys_domain="global" view="Default view">adac7b46db002300e48071efbf96197a</sys_ui_form>
+            <sys_ui_section caption="Information" display_value="Information" name="x_78226_euc_projec_euc_task" sys_domain="global" view="Default view">69ac7b46db002300e48071efbf96197c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-08-22 18:07:51</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-08-22 19:04:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aea9405edb002300e48071efbf9619d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_78226_euc_projec_euc_task" name="x_78226_euc_projec_euc_task" sys_domain="global" view="Default view">adac7b46db002300e48071efbf96197a</sys_ui_form>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="x_78226_euc_projec_euc_task" sys_domain="global" view="Default view">eaa9cc1edb002300e48071efbf9619fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-08-22 19:04:42</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_78226_euc_projec_euc_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-08-22 18:07:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>adac7b46db002300e48071efbf96197a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_78226_euc_projec_euc_task</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="EUC Projects" source="x_78226_euc_projec">8556bf02db002300e48071efbf9619aa</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="EUC Projects">8556bf02db002300e48071efbf9619aa</sys_scope>
+            <sys_update_name>sys_ui_form_sections_adac7b46db002300e48071efbf96197a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-08-22 18:07:51</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

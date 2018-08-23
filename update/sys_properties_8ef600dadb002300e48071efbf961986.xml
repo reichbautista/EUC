@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>EUC Task activity formatter fields</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.ui.x_78226_euc_projec_euc_task_activity.fields</name>
+        <read_roles/>
+        <suffix/>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-22 18:52:56</sys_created_on>
+        <sys_id>8ef600dadb002300e48071efbf961986</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.ui.x_78226_euc_projec_euc_task_activity.fields</sys_name>
+        <sys_package display_value="EUC Projects" source="x_78226_euc_projec">8556bf02db002300e48071efbf9619aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EUC Projects">8556bf02db002300e48071efbf9619aa</sys_scope>
+        <sys_update_name>sys_properties_8ef600dadb002300e48071efbf961986</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-22 18:52:56</sys_updated_on>
+        <type>string</type>
+        <value>assigned_to,cmdb_ci,state,impact,priority,opened_by,work_notes,comments,*Attachments*,active,activity_due,work_end,work_start,additional_assignee_list,approval,approval_history,approval_set,assignment_group,business_duration,business_service,close_notes,closed_at,closed_by,comments_and_work_notes,company,contact_type,correlation_id,correlation_display,sys_created_on,sys_created_by,delivery_plan,delivery_task,description,sys_domain,sys_domain_path,due_date,calendar_duration,escalation,expected_start,follow_up,group_list,knowledge,location,made_sla,u_string_full_utf8_1,number,opened_at,order,parent,u_project_name,reassignment_count,sla_due,short_description,sys_tags,sys_class_name,time_worked,sys_updated_on,sys_updated_by,sys_mod_count,upon_approval,upon_reject,urgency,user_input,watch_list,work_notes_list,*Email*,*Relations*</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=8ef600dadb002300e48071efbf961986"/>
+</record_update>
