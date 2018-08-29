@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element attributes="live_feed=true" extends="x_78226_euc_projec_euc_projects_table" label="EUC Story" max_length="40" name="x_78226_euc_projec_euc_story" sizeclass="4" type="collection">
+    <element attributes="live_feed=true" extends="x_78226_euc_projec_euc_projects_table" label="EUC Story" max_length="40" name="x_78226_euc_projec_euc_story" sizeclass="8" type="collection">
+        <element label="Story Points" max_length="40" name="story_points" type="integer"/>
         <element attributes="edge_encryption_enabled=true" label="Backout Plan" max_length="500" name="u_backout_plan" type="string"/>
         <element label="Change Request" max_length="32" name="u_change_request" reference="change_request" type="reference"/>
         <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="EUC Task List" max_length="1024" name="u_euc_task_list" reference="x_78226_euc_projec_euc_task" type="glide_list"/>

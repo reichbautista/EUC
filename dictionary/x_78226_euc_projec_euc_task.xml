@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element attributes="live_feed=true" extends="x_78226_euc_projec_euc_projects_table" label="EUC Task" max_length="40" name="x_78226_euc_projec_euc_task" sizeclass="8" type="collection">
+    <element attributes="live_feed=true" extends="x_78226_euc_projec_euc_projects_table" label="EUC Task" max_length="40" name="x_78226_euc_projec_euc_task" sizeclass="9" type="collection">
         <element dependent="short_description" dependent_on_field="short_description" label="Project Table Short Description" max_length="32" name="u_reference_1" reference="x_78226_euc_projec_euc_projects_table" type="reference" use_dependent_field="true"/>
     </element>
 </database>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>rpt-temp411d8a82d7020200b93ca5f75e61039c4ae0990fdb80130063ea73198c961950</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>rbautista</sys_created_by>
+        <sys_created_on>2018-08-27 17:38:18</sys_created_on>
+        <sys_id>15d5ed73db08af00a76271198c961946</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="EUC Projects">8556bf02db002300e48071efbf9619aa</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>rbautista</sys_updated_by>
+        <sys_updated_on>2018-08-27 17:38:18</sys_updated_on>
+        <title>Rpt-temp411d8a82d7020200b93ca5f75e61039c4ae0990fdb80130063ea73198c961950</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

@@ -17,7 +17,7 @@
         <number_ref display_value="EUC">6156fb42db002300e48071efbf96191e</number_ref>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Task" name="task">c9e3e5749902130059a648f6b99797aa</super_class>
+        <super_class display_value="Task" name="task">22998e45db21030088f9d11c5e9619e4</super_class>
         <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_class_path/>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="INSERT_OR_UPDATE">
+        <canvas_page display_value="PA New Tab">748b2790db98ef00a76271198c9619be</canvas_page>
+        <name>New Tab</name>
+        <page display_value="PA New Tab">288b2790db98ef00a76271198c9619bd</page>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>rbautista</sys_created_by>
+        <sys_created_on>2018-08-29 16:39:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>748b2790db98ef00a76271198c9619c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="EUC Projects" source="x_78226_euc_projec">8556bf02db002300e48071efbf9619aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EUC Projects">8556bf02db002300e48071efbf9619aa</sys_scope>
+        <sys_update_name>pa_tabs_748b2790db98ef00a76271198c9619c0</sys_update_name>
+        <sys_updated_by>rbautista</sys_updated_by>
+        <sys_updated_on>2018-08-29 16:39:18</sys_updated_on>
+    </pa_tabs>
+</record_update>

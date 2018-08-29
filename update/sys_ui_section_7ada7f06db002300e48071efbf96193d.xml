@@ -4,126 +4,140 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>number</element>
             <position>0</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-23 17:10:47</sys_created_on>
-            <sys_id>5b293422db482300e48071efbf961969</sys_id>
+            <sys_created_by>rbautista</sys_created_by>
+            <sys_created_on>2018-08-29 17:24:53</sys_created_on>
+            <sys_id>90f53f18db98ef00a76271198c961922</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="EUC - STORY TICKET" display_value="EUC - STORY TICKET" name="x_78226_euc_projec_euc_story" sys_domain="global" view="Default view">7ada7f06db002300e48071efbf96193d</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-23 17:10:47</sys_updated_on>
+            <sys_updated_by>rbautista</sys_updated_by>
+            <sys_updated_on>2018-08-29 17:24:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>opened_by</element>
             <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-23 17:10:47</sys_created_on>
-            <sys_id>db293422db482300e48071efbf961969</sys_id>
+            <sys_created_by>rbautista</sys_created_by>
+            <sys_created_on>2018-08-29 17:24:53</sys_created_on>
+            <sys_id>18f53f18db98ef00a76271198c961922</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="EUC - STORY TICKET" display_value="EUC - STORY TICKET" name="x_78226_euc_projec_euc_story" sys_domain="global" view="Default view">7ada7f06db002300e48071efbf96193d</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-23 17:10:47</sys_updated_on>
+            <sys_updated_by>rbautista</sys_updated_by>
+            <sys_updated_on>2018-08-29 17:24:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>assigned_to</element>
             <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-23 17:10:47</sys_created_on>
-            <sys_id>5f293422db482300e48071efbf961969</sys_id>
+            <sys_created_by>rbautista</sys_created_by>
+            <sys_created_on>2018-08-29 17:24:53</sys_created_on>
+            <sys_id>98f53f18db98ef00a76271198c961922</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="EUC - STORY TICKET" display_value="EUC - STORY TICKET" name="x_78226_euc_projec_euc_story" sys_domain="global" view="Default view">7ada7f06db002300e48071efbf96193d</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-23 17:10:47</sys_updated_on>
+            <sys_updated_by>rbautista</sys_updated_by>
+            <sys_updated_on>2018-08-29 17:24:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>watch_list</element>
             <position>3</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-23 17:10:47</sys_created_on>
-            <sys_id>df293422db482300e48071efbf961969</sys_id>
+            <sys_created_by>rbautista</sys_created_by>
+            <sys_created_on>2018-08-29 17:24:53</sys_created_on>
+            <sys_id>1cf53f18db98ef00a76271198c961922</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="EUC - STORY TICKET" display_value="EUC - STORY TICKET" name="x_78226_euc_projec_euc_story" sys_domain="global" view="Default view">7ada7f06db002300e48071efbf96193d</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-23 17:10:47</sys_updated_on>
+            <sys_updated_by>rbautista</sys_updated_by>
+            <sys_updated_on>2018-08-29 17:24:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>story_points</element>
+            <position>4</position>
+            <sys_created_by>rbautista</sys_created_by>
+            <sys_created_on>2018-08-29 17:24:53</sys_created_on>
+            <sys_id>9cf53f18db98ef00a76271198c961922</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="EUC - STORY TICKET" display_value="EUC - STORY TICKET" name="x_78226_euc_projec_euc_story" sys_domain="global" view="Default view">7ada7f06db002300e48071efbf96193d</sys_ui_section>
+            <sys_updated_by>rbautista</sys_updated_by>
+            <sys_updated_on>2018-08-29 17:24:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>4</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-23 17:10:47</sys_created_on>
-            <sys_id>53293422db482300e48071efbf96196a</sys_id>
+            <position>5</position>
+            <sys_created_by>rbautista</sys_created_by>
+            <sys_created_on>2018-08-29 17:24:53</sys_created_on>
+            <sys_id>10f53f18db98ef00a76271198c961923</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="EUC - STORY TICKET" display_value="EUC - STORY TICKET" name="x_78226_euc_projec_euc_story" sys_domain="global" view="Default view">7ada7f06db002300e48071efbf96193d</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-23 17:10:47</sys_updated_on>
+            <sys_updated_by>rbautista</sys_updated_by>
+            <sys_updated_on>2018-08-29 17:24:53</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>priority</element>
-            <position>5</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-23 17:10:47</sys_created_on>
-            <sys_id>d3293422db482300e48071efbf96196a</sys_id>
+            <position>6</position>
+            <sys_created_by>rbautista</sys_created_by>
+            <sys_created_on>2018-08-29 17:24:53</sys_created_on>
+            <sys_id>90f53f18db98ef00a76271198c961923</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="EUC - STORY TICKET" display_value="EUC - STORY TICKET" name="x_78226_euc_projec_euc_story" sys_domain="global" view="Default view">7ada7f06db002300e48071efbf96193d</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-23 17:10:47</sys_updated_on>
+            <sys_updated_by>rbautista</sys_updated_by>
+            <sys_updated_on>2018-08-29 17:24:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>state</element>
-            <position>6</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-23 17:10:47</sys_created_on>
-            <sys_id>57293422db482300e48071efbf96196a</sys_id>
+            <position>7</position>
+            <sys_created_by>rbautista</sys_created_by>
+            <sys_created_on>2018-08-29 17:24:53</sys_created_on>
+            <sys_id>14f53f18db98ef00a76271198c961923</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="EUC - STORY TICKET" display_value="EUC - STORY TICKET" name="x_78226_euc_projec_euc_story" sys_domain="global" view="Default view">7ada7f06db002300e48071efbf96193d</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-23 17:10:47</sys_updated_on>
+            <sys_updated_by>rbautista</sys_updated_by>
+            <sys_updated_on>2018-08-29 17:24:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>parent</element>
-            <position>7</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-23 17:10:47</sys_created_on>
-            <sys_id>d7293422db482300e48071efbf96196a</sys_id>
+            <position>8</position>
+            <sys_created_by>rbautista</sys_created_by>
+            <sys_created_on>2018-08-29 17:24:53</sys_created_on>
+            <sys_id>94f53f18db98ef00a76271198c961923</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="EUC - STORY TICKET" display_value="EUC - STORY TICKET" name="x_78226_euc_projec_euc_story" sys_domain="global" view="Default view">7ada7f06db002300e48071efbf96193d</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-23 17:10:47</sys_updated_on>
+            <sys_updated_by>rbautista</sys_updated_by>
+            <sys_updated_on>2018-08-29 17:24:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>work_notes_list</element>
-            <position>8</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-23 17:10:47</sys_created_on>
-            <sys_id>5b293422db482300e48071efbf96196a</sys_id>
+            <position>9</position>
+            <sys_created_by>rbautista</sys_created_by>
+            <sys_created_on>2018-08-29 17:24:53</sys_created_on>
+            <sys_id>18f53f18db98ef00a76271198c961923</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="EUC - STORY TICKET" display_value="EUC - STORY TICKET" name="x_78226_euc_projec_euc_story" sys_domain="global" view="Default view">7ada7f06db002300e48071efbf96193d</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-23 17:10:47</sys_updated_on>
+            <sys_updated_by>rbautista</sys_updated_by>
+            <sys_updated_on>2018-08-29 17:24:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

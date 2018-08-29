@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="sys_grid_canvas" unload_date="2018-08-29 21:59:36">
+    <sys_grid_canvas action="INSERT_OR_UPDATE">
+        <legacy_page display_value="PA New Tab">288b2790db98ef00a76271198c9619bd</legacy_page>
+        <name>PA New Tab</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>rbautista</sys_created_by>
+        <sys_created_on>2018-08-29 16:39:18</sys_created_on>
+        <sys_id>748b2790db98ef00a76271198c9619be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA New Tab</sys_name>
+        <sys_package display_value="EUC Projects" source="x_78226_euc_projec">8556bf02db002300e48071efbf9619aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EUC Projects">8556bf02db002300e48071efbf9619aa</sys_scope>
+        <sys_update_name>sys_grid_canvas_748b2790db98ef00a76271198c9619be</sys_update_name>
+        <sys_updated_by>rbautista</sys_updated_by>
+        <sys_updated_on>2018-08-29 16:39:18</sys_updated_on>
+        <related_items_node>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab">748b2790db98ef00a76271198c9619be</grid_canvas>
+                <height>10</height>
+                <portal_widget display_value="Created 08/29/2018 09:39:26 AM">368bab50db98ef00a76271198c9619db</portal_widget>
+                <posx>0</posx>
+                <posy>30</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>rbautista</sys_created_by>
+                <sys_created_on>2018-08-29 16:39:26</sys_created_on>
+                <sys_id>368bab50db98ef00a76271198c9619de</sys_id>
+                <sys_mod_count>3</sys_mod_count>
+                <sys_name>748b2790db98ef00a76271198c9619be</sys_name>
+                <sys_package display_value="EUC Projects" source="x_78226_euc_projec">8556bf02db002300e48071efbf9619aa</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="EUC Projects">8556bf02db002300e48071efbf9619aa</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_368bab50db98ef00a76271198c9619de</sys_update_name>
+                <sys_updated_by>rbautista</sys_updated_by>
+                <sys_updated_on>2018-08-29 16:43:59</sys_updated_on>
+                <width>12</width>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone/>
+                        <offset/>
+                        <page display_value="PA New Tab">288b2790db98ef00a76271198c9619bd</page>
+                        <summary>Project Report - Example</summary>
+                        <sys_created_by>rbautista</sys_created_by>
+                        <sys_created_on>2018-08-29 16:39:26</sys_created_on>
+                        <sys_id>368bab50db98ef00a76271198c9619db</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>rbautista</sys_updated_by>
+                        <sys_updated_on>2018-08-29 16:39:26</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA New Tab">748b2790db98ef00a76271198c9619be</grid_canvas>
+                                <height>10</height>
+                                <portal_widget display_value="Created 08/29/2018 09:39:26 AM">368bab50db98ef00a76271198c9619db</portal_widget>
+                                <posx>0</posx>
+                                <posy>30</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>rbautista</sys_created_by>
+                                <sys_created_on>2018-08-29 16:39:26</sys_created_on>
+                                <sys_id>368bab50db98ef00a76271198c9619de</sys_id>
+                                <sys_mod_count>3</sys_mod_count>
+                                <sys_name>748b2790db98ef00a76271198c9619be</sys_name>
+                                <sys_package display_value="EUC Projects" source="x_78226_euc_projec">8556bf02db002300e48071efbf9619aa</sys_package>
+                                <sys_policy/>
+                                <sys_scope display_value="EUC Projects">8556bf02db002300e48071efbf9619aa</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_368bab50db98ef00a76271198c9619de</sys_update_name>
+                                <sys_updated_by>rbautista</sys_updated_by>
+                                <sys_updated_on>2018-08-29 16:43:59</sys_updated_on>
+                                <width>12</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>can_subscribe</name>
+                                <portal_section display_value="Created 08/29/2018 09:39:26 AM">368bab50db98ef00a76271198c9619db</portal_section>
+                                <sys_created_by>rbautista</sys_created_by>
+                                <sys_created_on>2018-08-29 16:39:26</sys_created_on>
+                                <sys_id>328bab50db98ef00a76271198c9619dd</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>rbautista</sys_updated_by>
+                                <sys_updated_on>2018-08-29 16:39:26</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>help_text_window</name>
+                                <portal_section display_value="Created 08/29/2018 09:39:26 AM">368bab50db98ef00a76271198c9619db</portal_section>
+                                <sys_created_by>rbautista</sys_created_by>
+                                <sys_created_on>2018-08-29 16:39:26</sys_created_on>
+                                <sys_id>7e8bab50db98ef00a76271198c9619dc</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>rbautista</sys_updated_by>
+                                <sys_updated_on>2018-08-29 16:39:26</sys_updated_on>
+                                <value>report_widget_description</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 08/29/2018 09:39:26 AM">368bab50db98ef00a76271198c9619db</portal_section>
+                                <sys_created_by>rbautista</sys_created_by>
+                                <sys_created_on>2018-08-29 16:39:26</sys_created_on>
+                                <sys_id>b68bab50db98ef00a76271198c9619dd</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>rbautista</sys_updated_by>
+                                <sys_updated_on>2018-08-29 16:39:26</sys_updated_on>
+                                <value>Project Report - Example</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 08/29/2018 09:39:26 AM">368bab50db98ef00a76271198c9619db</portal_section>
+                                <sys_created_by>rbautista</sys_created_by>
+                                <sys_created_on>2018-08-29 16:39:26</sys_created_on>
+                                <sys_id>ba8bab50db98ef00a76271198c9619dc</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>rbautista</sys_updated_by>
+                                <sys_updated_on>2018-08-29 16:39:26</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderReport</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>report_type</name>
+                                <portal_section display_value="Created 08/29/2018 09:39:26 AM">368bab50db98ef00a76271198c9619db</portal_section>
+                                <sys_created_by>rbautista</sys_created_by>
+                                <sys_created_on>2018-08-29 16:39:26</sys_created_on>
+                                <sys_id>f28bab50db98ef00a76271198c9619dd</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>rbautista</sys_updated_by>
+                                <sys_updated_on>2018-08-29 16:39:26</sys_updated_on>
+                                <value>pie</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>sys_id</name>
+                                <portal_section display_value="Created 08/29/2018 09:39:26 AM">368bab50db98ef00a76271198c9619db</portal_section>
+                                <sys_created_by>rbautista</sys_created_by>
+                                <sys_created_on>2018-08-29 16:39:26</sys_created_on>
+                                <sys_id>fe8bab50db98ef00a76271198c9619db</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>rbautista</sys_updated_by>
+                                <sys_updated_on>2018-08-29 16:39:26</sys_updated_on>
+                                <value>a8fae390db98ef00a76271198c9619d4</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone/>
+                        <offset/>
+                        <page display_value="PA New Tab">288b2790db98ef00a76271198c9619bd</page>
+                        <summary>Project Work SNOW  Assigned To - Example</summary>
+                        <sys_created_by>rbautista</sys_created_by>
+                        <sys_created_on>2018-08-29 16:39:35</sys_created_on>
+                        <sys_id>709ba750db98ef00a76271198c961932</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>rbautista</sys_updated_by>
+                        <sys_updated_on>2018-08-29 16:39:35</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA New Tab">748b2790db98ef00a76271198c9619be</grid_canvas>
+                                <height>10</height>
+                                <portal_widget display_value="Created 08/29/2018 09:39:35 AM">709ba750db98ef00a76271198c961932</portal_widget>
+                                <posx>0</posx>
+                                <posy>10</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>rbautista</sys_created_by>
+                                <sys_created_on>2018-08-29 16:39:35</sys_created_on>
+                                <sys_id>bc9ba750db98ef00a76271198c961933</sys_id>
+                                <sys_mod_count>1</sys_mod_count>
+                                <sys_name>748b2790db98ef00a76271198c9619be</sys_name>
+                                <sys_package display_value="EUC Projects" source="x_78226_euc_projec">8556bf02db002300e48071efbf9619aa</sys_package>
+                                <sys_policy/>
+                                <sys_scope display_value="EUC Projects">8556bf02db002300e48071efbf9619aa</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_bc9ba750db98ef00a76271198c961933</sys_update_name>
+                                <sys_updated_by>rbautista</sys_updated_by>
+                                <sys_updated_on>2018-08-29 16:43:59</sys_updated_on>
+                                <width>12</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>can_subscribe</name>
+                                <portal_section display_value="Created 08/29/2018 09:39:35 AM">709ba750db98ef00a76271198c961932</portal_section>
+                                <sys_created_by>rbautista</sys_created_by>
+                                <sys_created_on>2018-08-29 16:39:35</sys_created_on>
+                                <sys_id>309ba750db98ef00a76271198c961933</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>rbautista</sys_updated_by>
+                                <sys_updated_on>2018-08-29 16:39:35</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>sys_id</name>
+                                <portal_section display_value="Created 08/29/2018 09:39:35 AM">709ba750db98ef00a76271198c961932</portal_section>
+                                <sys_created_by>rbautista</sys_created_by>
+                                <sys_created_on>2018-08-29 16:39:35</sys_created_on>
+                                <sys_id>749ba750db98ef00a76271198c961932</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>rbautista</sys_updated_by>
+                                <sys_updated_on>2018-08-29 16:39:35</sys_updated_on>
+                                <value>176ba390db98ef00a76271198c961905</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>help_text_window</name>
+                                <portal_section display_value="Created 08/29/2018 09:39:35 AM">709ba750db98ef00a76271198c961932</portal_section>
+                                <sys_created_by>rbautista</sys_created_by>
+                                <sys_created_on>2018-08-29 16:39:35</sys_created_on>
+                                <sys_id>7c9ba750db98ef00a76271198c961932</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>rbautista</sys_updated_by>
+                                <sys_updated_on>2018-08-29 16:39:35</sys_updated_on>
+                                <value>report_widget_description</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 08/29/2018 09:39:35 AM">709ba750db98ef00a76271198c961932</portal_section>
+                                <sys_created_by>rbautista</sys_created_by>
+                                <sys_created_on>2018-08-29 16:39:35</sys_created_on>
+                                <sys_id>b49ba750db98ef00a76271198c961933</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>rbautista</sys_updated_by>
+                                <sys_updated_on>2018-08-29 16:39:35</sys_updated_on>
+                                <value>Project Work SNOW  Assigned To - Example</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 08/29/2018 09:39:35 AM">709ba750db98ef00a76271198c961932</portal_section>
+                                <sys_created_by>rbautista</sys_created_by>
+                                <sys_created_on>2018-08-29 16:39:35</sys_created_on>
+                                <sys_id>b89ba750db98ef00a76271198c961932</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>rbautista</sys_updated_by>
+                                <sys_updated_on>2018-08-29 16:39:35</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderReport</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>report_type</name>
+                                <portal_section display_value="Created 08/29/2018 09:39:35 AM">709ba750db98ef00a76271198c961932</portal_section>
+                                <sys_created_by>rbautista</sys_created_by>
+                                <sys_created_on>2018-08-29 16:39:35</sys_created_on>
+                                <sys_id>f09ba750db98ef00a76271198c961933</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>rbautista</sys_updated_by>
+                                <sys_updated_on>2018-08-29 16:39:35</sys_updated_on>
+                                <value>pie</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone/>
+                        <offset/>
+                        <page display_value="PA New Tab">288b2790db98ef00a76271198c9619bd</page>
+                        <summary>Project Work Assigned To - Example</summary>
+                        <sys_created_by>rbautista</sys_created_by>
+                        <sys_created_on>2018-08-29 16:39:32</sys_created_on>
+                        <sys_id>849be390db98ef00a76271198c9619ff</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>rbautista</sys_updated_by>
+                        <sys_updated_on>2018-08-29 16:39:32</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA New Tab">748b2790db98ef00a76271198c9619be</grid_canvas>
+                                <height>10</height>
+                                <portal_widget display_value="Created 08/29/2018 09:39:32 AM">849be390db98ef00a76271198c9619ff</portal_widget>
+                                <posx>0</posx>
+                                <posy>20</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>rbautista</sys_created_by>
+                                <sys_created_on>2018-08-29 16:39:32</sys_created_on>
+                                <sys_id>c09b2790db98ef00a76271198c961901</sys_id>
+                                <sys_mod_count>2</sys_mod_count>
+                                <sys_name>748b2790db98ef00a76271198c9619be</sys_name>
+                                <sys_package display_value="EUC Projects" source="x_78226_euc_projec">8556bf02db002300e48071efbf9619aa</sys_package>
+                                <sys_policy/>
+                                <sys_scope display_value="EUC Projects">8556bf02db002300e48071efbf9619aa</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_c09b2790db98ef00a76271198c961901</sys_update_name>
+                                <sys_updated_by>rbautista</sys_updated_by>
+                                <sys_updated_on>2018-08-29 16:43:59</sys_updated_on>
+                                <width>12</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>report_type</name>
+                                <portal_section display_value="Created 08/29/2018 09:39:32 AM">849be390db98ef00a76271198c9619ff</portal_section>
+                                <sys_created_by>rbautista</sys_created_by>
+                                <sys_created_on>2018-08-29 16:39:32</sys_created_on>
+                                <sys_id>089b2790db98ef00a76271198c961900</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>rbautista</sys_updated_by>
+                                <sys_updated_on>2018-08-29 16:39:32</sys_updated_on>
+                                <value>pie</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>can_subscribe</name>
+                                <portal_section display_value="Created 08/29/2018 09:39:32 AM">849be390db98ef00a76271198c9619ff</portal_section>
+                                <sys_created_by>rbautista</sys_created_by>
+                                <sys_created_on>2018-08-29 16:39:32</sys_created_on>
+                                <sys_id>449b2790db98ef00a76271198c961900</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>rbautista</sys_updated_by>
+                                <sys_updated_on>2018-08-29 16:39:32</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>help_text_window</name>
+                                <portal_section display_value="Created 08/29/2018 09:39:32 AM">849be390db98ef00a76271198c9619ff</portal_section>
+                                <sys_created_by>rbautista</sys_created_by>
+                                <sys_created_on>2018-08-29 16:39:32</sys_created_on>
+                                <sys_id>809b2790db98ef00a76271198c961900</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>rbautista</sys_updated_by>
+                                <sys_updated_on>2018-08-29 16:39:32</sys_updated_on>
+                                <value>report_widget_description</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>sys_id</name>
+                                <portal_section display_value="Created 08/29/2018 09:39:32 AM">849be390db98ef00a76271198c9619ff</portal_section>
+                                <sys_created_by>rbautista</sys_created_by>
+                                <sys_created_on>2018-08-29 16:39:32</sys_created_on>
+                                <sys_id>889be390db98ef00a76271198c9619ff</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>rbautista</sys_updated_by>
+                                <sys_updated_on>2018-08-29 16:39:32</sys_updated_on>
+                                <value>f43be390db98ef00a76271198c96191e</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 08/29/2018 09:39:32 AM">849be390db98ef00a76271198c9619ff</portal_section>
+                                <sys_created_by>rbautista</sys_created_by>
+                                <sys_created_on>2018-08-29 16:39:32</sys_created_on>
+                                <sys_id>c89b2790db98ef00a76271198c961900</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>rbautista</sys_updated_by>
+                                <sys_updated_on>2018-08-29 16:39:32</sys_updated_on>
+                                <value>Project Work Assigned To - Example</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 08/29/2018 09:39:32 AM">849be390db98ef00a76271198c9619ff</portal_section>
+                                <sys_created_by>rbautista</sys_created_by>
+                                <sys_created_on>2018-08-29 16:39:32</sys_created_on>
+                                <sys_id>cc9be390db98ef00a76271198c9619ff</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>rbautista</sys_updated_by>
+                                <sys_updated_on>2018-08-29 16:39:32</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderReport</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone/>
+                        <offset/>
+                        <page display_value="PA New Tab">288b2790db98ef00a76271198c9619bd</page>
+                        <summary>IT EUC Operations Assigned To - Examples</summary>
+                        <sys_created_by>rbautista</sys_created_by>
+                        <sys_created_on>2018-08-29 16:43:58</sys_created_on>
+                        <sys_id>999cabd0db98ef00a76271198c961949</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>rbautista</sys_updated_by>
+                        <sys_updated_on>2018-08-29 16:43:58</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA New Tab">748b2790db98ef00a76271198c9619be</grid_canvas>
+                                <height>10</height>
+                                <portal_widget display_value="Created 08/29/2018 09:43:58 AM">999cabd0db98ef00a76271198c961949</portal_widget>
+                                <posx>0</posx>
+                                <posy>0</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>rbautista</sys_created_by>
+                                <sys_created_on>2018-08-29 16:43:58</sys_created_on>
+                                <sys_id>d59cabd0db98ef00a76271198c96194b</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_name>748b2790db98ef00a76271198c9619be</sys_name>
+                                <sys_package display_value="EUC Projects" source="x_78226_euc_projec">8556bf02db002300e48071efbf9619aa</sys_package>
+                                <sys_policy/>
+                                <sys_scope display_value="EUC Projects">8556bf02db002300e48071efbf9619aa</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_d59cabd0db98ef00a76271198c96194b</sys_update_name>
+                                <sys_updated_by>rbautista</sys_updated_by>
+                                <sys_updated_on>2018-08-29 16:43:58</sys_updated_on>
+                                <width>12</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>report_type</name>
+                                <portal_section display_value="Created 08/29/2018 09:43:58 AM">999cabd0db98ef00a76271198c961949</portal_section>
+                                <sys_created_by>rbautista</sys_created_by>
+                                <sys_created_on>2018-08-29 16:43:58</sys_created_on>
+                                <sys_id>1d9cabd0db98ef00a76271198c96194a</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>rbautista</sys_updated_by>
+                                <sys_updated_on>2018-08-29 16:43:58</sys_updated_on>
+                                <value>bar</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>can_subscribe</name>
+                                <portal_section display_value="Created 08/29/2018 09:43:58 AM">999cabd0db98ef00a76271198c961949</portal_section>
+                                <sys_created_by>rbautista</sys_created_by>
+                                <sys_created_on>2018-08-29 16:43:58</sys_created_on>
+                                <sys_id>599cabd0db98ef00a76271198c96194a</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>rbautista</sys_updated_by>
+                                <sys_updated_on>2018-08-29 16:43:58</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>help_text_window</name>
+                                <portal_section display_value="Created 08/29/2018 09:43:58 AM">999cabd0db98ef00a76271198c961949</portal_section>
+                                <sys_created_by>rbautista</sys_created_by>
+                                <sys_created_on>2018-08-29 16:43:58</sys_created_on>
+                                <sys_id>959cabd0db98ef00a76271198c96194a</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>rbautista</sys_updated_by>
+                                <sys_updated_on>2018-08-29 16:43:58</sys_updated_on>
+                                <value>report_widget_description</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>sys_id</name>
+                                <portal_section display_value="Created 08/29/2018 09:43:58 AM">999cabd0db98ef00a76271198c961949</portal_section>
+                                <sys_created_by>rbautista</sys_created_by>
+                                <sys_created_on>2018-08-29 16:43:58</sys_created_on>
+                                <sys_id>9d9cabd0db98ef00a76271198c961949</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>rbautista</sys_updated_by>
+                                <sys_updated_on>2018-08-29 16:43:58</sys_updated_on>
+                                <value>996c6f90db98ef00a76271198c96193e</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 08/29/2018 09:43:58 AM">999cabd0db98ef00a76271198c961949</portal_section>
+                                <sys_created_by>rbautista</sys_created_by>
+                                <sys_created_on>2018-08-29 16:43:58</sys_created_on>
+                                <sys_id>d19cabd0db98ef00a76271198c96194a</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>rbautista</sys_updated_by>
+                                <sys_updated_on>2018-08-29 16:43:58</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderReport</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 08/29/2018 09:43:58 AM">999cabd0db98ef00a76271198c961949</portal_section>
+                                <sys_created_by>rbautista</sys_created_by>
+                                <sys_created_on>2018-08-29 16:43:58</sys_created_on>
+                                <sys_id>dd9cabd0db98ef00a76271198c96194a</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>rbautista</sys_updated_by>
+                                <sys_updated_on>2018-08-29 16:43:58</sys_updated_on>
+                                <value>IT EUC Operations Assigned To - Examples</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+            </sys_grid_canvas_pane>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab">748b2790db98ef00a76271198c9619be</grid_canvas>
+                <height>10</height>
+                <portal_widget display_value="Created 08/29/2018 09:39:35 AM">709ba750db98ef00a76271198c961932</portal_widget>
+                <posx>0</posx>
+                <posy>10</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>rbautista</sys_created_by>
+                <sys_created_on>2018-08-29 16:39:35</sys_created_on>
+                <sys_id>bc9ba750db98ef00a76271198c961933</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_name>748b2790db98ef00a76271198c9619be</sys_name>
+                <sys_package display_value="EUC Projects" source="x_78226_euc_projec">8556bf02db002300e48071efbf9619aa</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="EUC Projects">8556bf02db002300e48071efbf9619aa</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_bc9ba750db98ef00a76271198c961933</sys_update_name>
+                <sys_updated_by>rbautista</sys_updated_by>
+                <sys_updated_on>2018-08-29 16:43:59</sys_updated_on>
+                <width>12</width>
+            </sys_grid_canvas_pane>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab">748b2790db98ef00a76271198c9619be</grid_canvas>
+                <height>10</height>
+                <portal_widget display_value="Created 08/29/2018 09:39:32 AM">849be390db98ef00a76271198c9619ff</portal_widget>
+                <posx>0</posx>
+                <posy>20</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>rbautista</sys_created_by>
+                <sys_created_on>2018-08-29 16:39:32</sys_created_on>
+                <sys_id>c09b2790db98ef00a76271198c961901</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_name>748b2790db98ef00a76271198c9619be</sys_name>
+                <sys_package display_value="EUC Projects" source="x_78226_euc_projec">8556bf02db002300e48071efbf9619aa</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="EUC Projects">8556bf02db002300e48071efbf9619aa</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_c09b2790db98ef00a76271198c961901</sys_update_name>
+                <sys_updated_by>rbautista</sys_updated_by>
+                <sys_updated_on>2018-08-29 16:43:59</sys_updated_on>
+                <width>12</width>
+            </sys_grid_canvas_pane>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab">748b2790db98ef00a76271198c9619be</grid_canvas>
+                <height>10</height>
+                <portal_widget display_value="Created 08/29/2018 09:43:58 AM">999cabd0db98ef00a76271198c961949</portal_widget>
+                <posx>0</posx>
+                <posy>0</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>rbautista</sys_created_by>
+                <sys_created_on>2018-08-29 16:43:58</sys_created_on>
+                <sys_id>d59cabd0db98ef00a76271198c96194b</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_name>748b2790db98ef00a76271198c9619be</sys_name>
+                <sys_package display_value="EUC Projects" source="x_78226_euc_projec">8556bf02db002300e48071efbf9619aa</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="EUC Projects">8556bf02db002300e48071efbf9619aa</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_d59cabd0db98ef00a76271198c96194b</sys_update_name>
+                <sys_updated_by>rbautista</sys_updated_by>
+                <sys_updated_on>2018-08-29 16:43:58</sys_updated_on>
+                <width>12</width>
+            </sys_grid_canvas_pane>
+        </related_items_node>
+    </sys_grid_canvas>
+</record_update>

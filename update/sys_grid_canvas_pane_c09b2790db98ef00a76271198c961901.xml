@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA New Tab">748b2790db98ef00a76271198c9619be</grid_canvas>
+        <height>10</height>
+        <portal_widget display_value="Created 08/29/2018 09:39:32 AM">849be390db98ef00a76271198c9619ff</portal_widget>
+        <posx>0</posx>
+        <posy>20</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>rbautista</sys_created_by>
+        <sys_created_on>2018-08-29 16:39:32</sys_created_on>
+        <sys_id>c09b2790db98ef00a76271198c961901</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>748b2790db98ef00a76271198c9619be</sys_name>
+        <sys_package display_value="EUC Projects" source="x_78226_euc_projec">8556bf02db002300e48071efbf9619aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EUC Projects">8556bf02db002300e48071efbf9619aa</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_c09b2790db98ef00a76271198c961901</sys_update_name>
+        <sys_updated_by>rbautista</sys_updated_by>
+        <sys_updated_on>2018-08-29 16:43:59</sys_updated_on>
+        <width>12</width>
+    </sys_grid_canvas_pane>
+</record_update>
